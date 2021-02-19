@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/practice/0218_practice/SWEA_1213_string_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0218_practice/SWEA_1216_회문2_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0218_practice/SWEA_3143_가장빠른 문자열 타이핑_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0218_practice/SWEA_4861_회문_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0218_practice/SWEA_4864_문자열비교_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0218_practice/SWEA_4865_글자수_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0218_practice/SWEA_5432_쇠막대기 자르기_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/0218_practice/SWEA_5432_쇠막대기 자르기_이정민.py">
+        <entry file="file://$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="304">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -85,10 +79,11 @@
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_3143_가장빠른 문자열 타이핑.py" />
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_3143_가장빠른 문자열 타이핑_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_5432_쇠막대기 자르기_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="180" />
     <option name="y" value="162" />
     <option name="width" value="1095" />
@@ -146,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SWEA_5432_쇠막대기 자르기_이정민">
+  <component name="RunManager" selected="Python.SWEA_5356_의석이의 세로로말해요_이정민">
     <configuration name="SWEA_1213_string_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_4865_글자수_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_5356_의석이의 세로로말해요_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0218_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0219_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0218_practice/SWEA_4865_글자수_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,19 +248,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.SWEA_4865_글자수_이정민" />
       <item itemvalue="Python.SWEA_1213_string_이정민" />
       <item itemvalue="Python.SWEA_1216_회문2_이정민" />
       <item itemvalue="Python.SWEA_3143_가장빠른 문자열 타이핑_이정민" />
       <item itemvalue="Python.SWEA_5432_쇠막대기 자르기_이정민" />
+      <item itemvalue="Python.SWEA_5356_의석이의 세로로말해요_이정민" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA_5356_의석이의 세로로말해요_이정민" />
         <item itemvalue="Python.SWEA_5432_쇠막대기 자르기_이정민" />
         <item itemvalue="Python.SWEA_3143_가장빠른 문자열 타이핑_이정민" />
         <item itemvalue="Python.SWEA_1216_회문2_이정민" />
         <item itemvalue="Python.SWEA_1213_string_이정민" />
-        <item itemvalue="Python.SWEA_4865_글자수_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -300,14 +295,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21340388" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21302816" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4638448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,9 +335,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -630,7 +623,14 @@
     <entry file="file://$PROJECT_DIR$/practice/0218_practice/SWEA_5432_쇠막대기 자르기_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
