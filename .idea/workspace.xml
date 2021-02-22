@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/practice/0222_practice/SWEA_2005_파스칼의 삼각형_이정민.py" line="14" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/leetcode_36.validsudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0222_practice/SWEA_1218_괄호짝짓기_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0222_practice/SWEA_2005_파스칼의 삼각형_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0222_practice/연습문제3_DFS구현_이정민.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py">
+        <entry file="file://$PROJECT_DIR$/practice/0222_practice/SWEA_2005_파스칼의 삼각형_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="148">
+              <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -80,6 +86,10 @@
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_3143_가장빠른 문자열 타이핑_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_5432_쇠막대기 자르기_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py" />
+        <option value="$PROJECT_DIR$/Study/leetcode_36.validsudoku.py" />
+        <option value="$PROJECT_DIR$/practice/0222_practice/SWEA_1218_괄호짝짓기_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0222_practice/연습문제3_DFS구현_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0222_practice/SWEA_2005_파스칼의 삼각형_이정민.py" />
       </list>
     </option>
   </component>
@@ -97,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,14 +119,26 @@
               <item name="03_APS" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="0222_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../서울_2반_이정민" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -141,8 +162,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SWEA_5356_의석이의 세로로말해요_이정민">
-    <configuration name="SWEA_1213_string_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SWEA_2005_파스칼의 삼각형_이정민">
+    <configuration name="연습문제3_DFS구현_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0218_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0222_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0218_practice/SWEA_1213_string_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0222_practice/연습문제3_DFS구현_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_1216_회문2_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_1218_괄호짝짓기_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0218_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0222_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0218_practice/SWEA_1216_회문2_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0222_practice/SWEA_1218_괄호짝짓기_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_3143_가장빠른 문자열 타이핑_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_2005_파스칼의 삼각형_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0218_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0222_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0218_practice/SWEA_3143_가장빠른 문자열 타이핑_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0222_practice/SWEA_2005_파스칼의 삼각형_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,19 +269,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.SWEA_1213_string_이정민" />
-      <item itemvalue="Python.SWEA_1216_회문2_이정민" />
-      <item itemvalue="Python.SWEA_3143_가장빠른 문자열 타이핑_이정민" />
       <item itemvalue="Python.SWEA_5432_쇠막대기 자르기_이정민" />
       <item itemvalue="Python.SWEA_5356_의석이의 세로로말해요_이정민" />
+      <item itemvalue="Python.SWEA_1218_괄호짝짓기_이정민" />
+      <item itemvalue="Python.연습문제3_DFS구현_이정민" />
+      <item itemvalue="Python.SWEA_2005_파스칼의 삼각형_이정민" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA_2005_파스칼의 삼각형_이정민" />
+        <item itemvalue="Python.연습문제3_DFS구현_이정민" />
+        <item itemvalue="Python.SWEA_1218_괄호짝짓기_이정민" />
         <item itemvalue="Python.SWEA_5356_의석이의 세로로말해요_이정민" />
         <item itemvalue="Python.SWEA_5432_쇠막대기 자르기_이정민" />
-        <item itemvalue="Python.SWEA_3143_가장빠른 문자열 타이핑_이정민" />
-        <item itemvalue="Python.SWEA_1216_회문2_이정민" />
-        <item itemvalue="Python.SWEA_1213_string_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +324,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21302816" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2892416" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4638448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,6 +356,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -627,10 +651,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Study/leetcode_36.validsudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice/0219_practice/SWEA_5356_의석이의 세로로말해요_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="361">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0222_practice/연습문제3_DFS구현_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0222_practice/SWEA_1218_괄호짝짓기_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="53" column="40" lean-forward="true" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0222_practice/SWEA_2005_파스칼의 삼각형_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
         </state>
       </provider>
     </entry>
