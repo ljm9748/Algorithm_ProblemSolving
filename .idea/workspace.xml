@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/practice/0225_practice/SWEA_1859_백만장자 프로젝트_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0225_practice/SWEA_1860_진기의 최고급 붕어빵_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0225_practice/SWEA_1974_스도쿠 검증_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0225_practice/SWEA_2805_농작물 수확하기_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0225_practice/SWEA_4408_자기방으로 돌아가기_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0225_practice/SWEA_4615_재미있는 오셀로 게임_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0226_practice/practice_zip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/0225_practice/SWEA_4408_자기방으로 돌아가기_이정민.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/0226_practice/practice_zip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="23" lean-forward="true" selection-end-line="20" />
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/0225_practice/SWEA_4615_재미있는 오셀로 게임_이정민.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="23" column="35" selection-start-line="21" selection-start-column="1" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1249248731/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9823">
+              <caret line="517" column="4" selection-start-line="517" selection-start-column="4" selection-end-line="517" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -50,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice/0210_practice/SWEA_1959_두개의 숫자열_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0210_practice/SWEA_6485_삼성시의 버스노선_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0210_practice/SWEA_1966_숫자를 정렬하자_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0215_practice/find_abs.py" />
@@ -101,10 +113,11 @@
         <option value="$PROJECT_DIR$/practice/0225_practice/SWEA_1974_스도쿠 검증_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0225_practice/SWEA_4615_재미있는 오셀로 게임_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0225_practice/SWEA_4408_자기방으로 돌아가기_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0226_practice/practice_zip.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="435" />
     <option name="width" value="1491" />
     <option name="height" value="951" />
@@ -232,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SWEA_4408_자기방으로 돌아가기_이정민">
+  <component name="RunManager" selected="Python.practice_zip">
     <configuration name="SWEA_1860_진기의 최고급 붕어빵_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_4615_재미있는 오셀로 게임_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice_zip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +338,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0225_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0226_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0225_practice/SWEA_4615_재미있는 오셀로 게임_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0226_practice/practice_zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,19 +352,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.SWEA_4615_재미있는 오셀로 게임_이정민" />
       <item itemvalue="Python.SWEA_2805_농작물 수확하기_이정민" />
       <item itemvalue="Python.SWEA_1974_스도쿠 검증_이정민" />
       <item itemvalue="Python.SWEA_1860_진기의 최고급 붕어빵_이정민" />
       <item itemvalue="Python.SWEA_4408_자기방으로 돌아가기_이정민" />
+      <item itemvalue="Python.practice_zip" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice_zip" />
         <item itemvalue="Python.SWEA_4408_자기방으로 돌아가기_이정민" />
         <item itemvalue="Python.SWEA_1860_진기의 최고급 붕어빵_이정민" />
         <item itemvalue="Python.SWEA_1974_스도쿠 검증_이정민" />
         <item itemvalue="Python.SWEA_2805_농작물 수확하기_이정민" />
-        <item itemvalue="Python.SWEA_4615_재미있는 오셀로 게임_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -386,10 +399,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="7" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -400,7 +413,7 @@
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32804233" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.34567901" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32804233" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32804233" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.52733684" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -456,20 +469,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice/0209_practice/SWEA_4835_구간합_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="24" selection-start-line="6" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/0209_practice/SWEA_4831_전기버스_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/0210_practice/SWEA_1966_숫자를 정렬하자_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -795,13 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/0225_practice/SWEA_4615_재미있는 오셀로 게임_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/0225_practice/SWEA_1860_진기의 최고급 붕어빵_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -811,8 +803,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/0225_practice/SWEA_4408_자기방으로 돌아가기_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="23" lean-forward="true" selection-end-line="20" />
+        <state relative-caret-position="124">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0226_practice/practice_zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1249248731/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9823">
+          <caret line="517" column="4" selection-start-line="517" selection-start-column="4" selection-end-line="517" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0225_practice/SWEA_4615_재미있는 오셀로 게임_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" column="35" selection-start-line="21" selection-start-column="1" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
