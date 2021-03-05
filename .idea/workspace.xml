@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_11559_PuyoPuyo_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0304_practice/SWEA_1226_미로1_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0304_practice/SWEA_1226_미로2_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0304_practice/SWEA_5097_회전_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0304_practice/SWEA_5099_피자굽기_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0304_practice/SWEA_5102_노드의 거리_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0304_practice/SWEA_5105_미로의 거리_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0305_practice/SWEA_1258_행렬찾기_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0305_practice/SWEA_4613_러시아국기 같은 깃발_이정민.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_11559_PuyoPuyo_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="65" lean-forward="true" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_11399_ATM_이정민.py">
+        <entry file="file://$PROJECT_DIR$/practice/0305_practice/SWEA_4613_러시아국기 같은 깃발_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="13" lean-forward="true" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="200">
+              <caret line="10" column="26" lean-forward="true" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -60,8 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_4864_문자열비교_이정민.py" />
-        <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_4861_회문_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_4865_글자수_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_1213_string_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0218_practice/SWEA_1216_회문2_이정민.py" />
@@ -111,11 +95,13 @@
         <option value="$PROJECT_DIR$/practice/0304_practice/SWEA_1226_미로1_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0304_practice/SWEA_1226_미로2_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_11559_PuyoPuyo_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0305_practice/SWEA_1258_행렬찾기_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0305_practice/SWEA_4613_러시아국기 같은 깃발_이정민.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="76" />
+    <option name="x" value="75" />
     <option name="y" value="222" />
     <option name="width" value="1491" />
     <option name="height" value="951" />
@@ -150,61 +136,7 @@
               <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
               <item name="03_APS" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0218_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0219_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0222_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0223_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0224_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0225_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0226_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0302_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0303_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0304_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="0305_practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
@@ -245,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_11559_PuyoPuyo_이정민">
+  <component name="RunManager" selected="Python.SWEA_4613_러시아국기 같은 깃발_이정민">
     <configuration name="BOJ_11559_PuyoPuyo_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_5099_피자굽기_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_1258_행렬찾기_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +228,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0304_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0305_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0304_practice/SWEA_5099_피자굽기_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0305_practice/SWEA_1258_행렬찾기_이정민.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SWEA_4613_러시아국기 같은 깃발_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03_APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0305_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0305_practice/SWEA_4613_러시아국기 같은 깃발_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,41 +283,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_5105_미로의 거리_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="03_APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0304_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0304_practice/SWEA_5105_미로의 거리_이정민.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.SWEA_5105_미로의 거리_이정민" />
-      <item itemvalue="Python.SWEA_5099_피자굽기_이정민" />
       <item itemvalue="Python.SWEA_5102_노드의 거리_이정민" />
       <item itemvalue="Python.SWEA_1226_미로2_이정민" />
       <item itemvalue="Python.BOJ_11559_PuyoPuyo_이정민" />
+      <item itemvalue="Python.SWEA_1258_행렬찾기_이정민" />
+      <item itemvalue="Python.SWEA_4613_러시아국기 같은 깃발_이정민" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA_4613_러시아국기 같은 깃발_이정민" />
+        <item itemvalue="Python.SWEA_1258_행렬찾기_이정민" />
         <item itemvalue="Python.BOJ_11559_PuyoPuyo_이정민" />
         <item itemvalue="Python.SWEA_1226_미로2_이정민" />
         <item itemvalue="Python.SWEA_5102_노드의 거리_이정민" />
-        <item itemvalue="Python.SWEA_5099_피자굽기_이정민" />
-        <item itemvalue="Python.SWEA_5105_미로의 거리_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -400,9 +332,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,7 +343,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32804233" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.31746033" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.31746033" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.26631394" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.52733684" />
@@ -469,20 +400,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice/0218_practice/SWEA_4864_문자열비교_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/0218_practice/SWEA_1216_회문2_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/0218_practice/SWEA_3143_가장빠른 문자열 타이핑_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -808,17 +725,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_11559_PuyoPuyo_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="65" lean-forward="true" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_11399_ATM_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="true" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_11559_PuyoPuyo_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="60" column="25" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0305_practice/SWEA_1258_행렬찾기_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0305_practice/SWEA_4613_러시아국기 같은 깃발_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="26" lean-forward="true" selection-end-line="29" />
         </state>
       </provider>
     </entry>
