@@ -1,8 +1,9 @@
 N=int(input())
 my_map=[list(map(int, input().split())) for n in range(N)]
 
+# 팀나누는 함수
 def find_team(person,count):
-    if count==N//2:
+    if count==N//2: # 스타트팀에 반 채우면
         calc()
     else:
         if person<N:
@@ -11,7 +12,7 @@ def find_team(person,count):
             find_team(person+1, count+1)
             start_team.pop()
 
-def calc():
+def calc(): # 각 팀의 전력 계산하는 함수
     global abs_min
     start_sum=0
     link_sum=0
@@ -27,7 +28,7 @@ def calc():
             link_sum+=my_map[link_team[i]][link_team[j]]
             link_sum+=my_map[link_team[j]][link_team[i]]
 
-    abs_min= min(abs_min,abs(link_sum-start_sum))
+    abs_min= min(abs_min,abs(link_sum-start_sum))   # 최소 판별
 
 start_team=[]
 abs_min=100*10
