@@ -17,16 +17,26 @@ chess=[[bx,by], [lx,ly], [nx,ny]]
 # 입력받기
 N=int(input())
 board=[list(map(int, input().split())) for _ in range(N)]
-visited=[[[[False]*3 for _ in range(1001)] for _ in range(10)] for _ in range(10)]
+visited=[[[[False]*3 for _ in range(102)] for _ in range(10)] for _ in range(10)]
+# boolean[10][10][101][3]  /x/y/다음목표/말
+
+for i in range(N):
+    if 1 in board[i]:
+        # print(board[i])
+        k=i
+        j=board[i].index(1)
 
 deq=deque()
+# 세 말로 시작
 for i in range(3):
-    deq.append([i, [0, 0], 2, 0])
-    visited[0][0][2][i]=True
+    deq.append([i, [k, j], 2, 0, 0])
+    visited[k][j][2][i]=True
 
+itr = 0
 while len(deq)>0:
     front=deq.popleft()
-    # print(front)
+    itr += 1
+    # print(itr, front)
     if front[2] == N*N+1:
         print(front[3])
         break
@@ -35,9 +45,9 @@ while len(deq)>0:
         for i in range(1,3):
             tmp=(front[0]+i)%3
             if visited[front[1][0]][front[1][1]][front[2]][tmp] == False:
-                deq.append([(front[0]+i)%3, front[1], front[2], front[3]+1])
+                deq.append([(front[0]+i)%3, front[1], front[2], front[3]+1, itr])
                 visited[front[1][0]][front[1][1]][front[2]][tmp]=True
-                # print('a:',[(front[0]+i)%3, front[1], front[2], front[3]+1])
+                #print(itr, "apnd", deq[-1])
 
         # 움직이기
         if front[0]==2:    # 나이트라면
@@ -49,14 +59,14 @@ while len(deq)>0:
                 if 0<=newx<N and 0<=newy<N:
                     if board[newx][newy] == front[2]:
                         if not visited[newx][newy][front[2]+1][front[0]]:
-                            deq.append(([front[0], [newx, newy], front[2] + 1, front[3] + 1]))
-                            # print('ap:', [front[0], [newx, newy], front[2] + 1, front[3] + 1])
+                            deq.append([front[0], [newx, newy], front[2] + 1, front[3] + 1, itr])
+                            #print(itr, 'apnd', deq[-1]) #[front[0], [newx, newy], front[2] + 1, front[3] + 1])
                             visited[newx][newy][front[2] + 1][front[0]]=True
                     else:
                         if not visited[newx][newy][front[2]][front[0]]:
-                            deq.append(([front[0], [newx, newy], front[2], front[3] + 1]))
-                            # print('ap:', [front[0], [newx, newy], front[2], front[3] + 1])
-                            visited[newx][newy][front[2] + 1][front[0]]=True
+                            deq.append([front[0], [newx, newy], front[2], front[3] + 1, itr])
+                            #print(itr, 'apnd', deq[-1]) #[front[0], [newx, newy], front[2], front[3] + 1])
+                            visited[newx][newy][front[2]][front[0]]=True
 
         else:
             # 비숍,록 움직이기
@@ -69,13 +79,13 @@ while len(deq)>0:
                 while 0<=newx<N and 0<=newy<N:
                     if board[newx][newy] == front[2]:
                         if not visited[newx][newy][front[2]+1][front[0]]:
-                            deq.append(([front[0], [newx, newy], front[2]+1, front[3]+1]))
-                            # print('app:',[front[0], [newx, newy], front[2] + 1, front[3] + 1])
+                            deq.append([front[0], [newx, newy], front[2]+1, front[3]+1, itr])
+                            #print(itr, 'apnd', deq[-1]) #[front[0], [newx, newy], front[2] + 1, front[3] + 1])
                             visited[newx][newy][front[2] + 1][front[0]]=True
                     else:
                         if not visited[newx][newy][front[2]][front[0]]:
-                            deq.append(([front[0], [newx, newy], front[2], front[3] + 1]))
-                            # print('app:', [front[0], [newx, newy], front[2], front[3] + 1])
+                            deq.append([front[0], [newx, newy], front[2], front[3] + 1, itr])
+                            #print(itr, 'apnd', deq[-1]) #[front[0], [newx, newy], front[2], front[3] + 1])
                             visited[newx][newy][front[2]][front[0]]=True
                     newx += chess[front[0]][0][k]
                     newy += chess[front[0]][1][k]

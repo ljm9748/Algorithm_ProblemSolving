@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_1000_A+B_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_18258_큐2_이정민.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,19 +16,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="25" column="11" lean-forward="true" selection-end-line="91" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Study/BOJ_18258_큐2_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="640">
               <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -50,9 +48,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
       <find>card</find>
       <find>i</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,17 +107,17 @@
         <option value="$PROJECT_DIR$/Study/tmp.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_2011_암호코드_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_1000_A+B_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_18258_큐2_이정민.py" />
+        <option value="$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="60" />
+    <option name="width" value="1086" />
+    <option name="height" value="957" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -176,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_18258_큐2_이정민">
+  <component name="RunManager" selected="Python.BOJ_16959_체스판여행_이정민">
     <configuration name="BOJ_1000_A+B_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,9 +289,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_16959_체스판여행_이정민" />
         <item itemvalue="Python.BOJ_18258_큐2_이정민" />
         <item itemvalue="Python.BOJ_1000_A+B_이정민" />
-        <item itemvalue="Python.BOJ_16959_체스판여행_이정민" />
         <item itemvalue="Python.BOJ_17103_골드바흐 파티션_이정민" />
         <item itemvalue="Python.tmp" />
       </list>
@@ -330,7 +328,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="0" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
@@ -343,7 +341,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32804233" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.33686066" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.29453263" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.52733684" />
@@ -715,13 +713,13 @@
     <entry file="file://$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="25" column="11" lean-forward="true" selection-end-line="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_18258_큐2_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="640">
           <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
