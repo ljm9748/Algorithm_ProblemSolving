@@ -18,7 +18,7 @@ for i in range(2,maxnum+1):
             break
     sosu_list[i]=tmp_is
 sosu_list[2]=True
-# print(sosu_list)
+
 # 골드바흐 파티션 개수 찾기
 for inp in input_list:
     answer=0

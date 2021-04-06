@@ -1,6 +1,5 @@
 def find_moo(now, nth, tmp_len):
     global answer
-    # print(now, nth, tmp_len)
     if nth==0:
         answer=moo[now-1]
         return
@@ -33,7 +32,7 @@ else:
 
     nth +=1
     tmp_len = tmp_len*2+3+nth
-# print(nth, tmp_len)
+
 find_moo(N, nth, tmp_len)
 
 
