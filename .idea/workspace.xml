@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/BOJ_for fast.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/BOJ_5904_Moo게임_이정민.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/BOJ_5904_Moo게임_이정민.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/Study/BOJ_11559_PuyoPuyo_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -39,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Study/BOJ_5904_Moo게임_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="34" lean-forward="true" selection-end-line="38" selection-end-column="13" />
+            <state relative-caret-position="680">
+              <caret line="34" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -48,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="22" column="22" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="440">
+              <caret line="22" column="22" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -57,17 +55,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            <state relative-caret-position="800">
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py">
+        <entry file="file://$PROJECT_DIR$/Study/BOJ_for fast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="6" column="12" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -94,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice/0303_practice/연습문제1_큐구현_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0303_practice/연습문제2_마이쮸_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_11399_ATM_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0303_practice/연습문제3_BFS_이정민.py" />
@@ -145,6 +151,7 @@
         <option value="$PROJECT_DIR$/Study/BOJ_5904_Moo게임_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py" />
+        <option value="$PROJECT_DIR$/Study/BOJ_for fast.py" />
       </list>
     </option>
   </component>
@@ -162,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,7 +197,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,7 +383,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -388,8 +394,8 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32804233" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.36507937" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29453263" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.36507937" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29453263" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.52733684" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -445,13 +451,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice/0302_practice/SWEA_1224_계산기3_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/0303_practice/연습문제1_큐구현_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -722,35 +721,42 @@
     <entry file="file://$PROJECT_DIR$/Study/BOJ_11559_PuyoPuyo_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_5904_Moo게임_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="34" lean-forward="true" selection-end-line="38" selection-end-column="13" />
+        <state relative-caret-position="680">
+          <caret line="34" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="22" column="22" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="440">
+          <caret line="22" column="22" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="800">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
-          <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_for fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="12" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
