@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_for fast.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/BOJ_for fast.py" beforeDir="false" afterPath="$PROJECT_DIR$/Study/BOJ_for fast.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Study/BOJ_for fast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="12" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="220">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -155,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="645" />
     <option name="y" value="141" />
     <option name="width" value="1086" />
@@ -169,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,6 +195,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_15900_나무탈출_이정민">
+  <component name="RunManager" selected="Python.BOJ_for fast">
     <configuration name="BOJ_15900_나무탈출_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,6 +241,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_for fast" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03_APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BOJ_for fast.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,41 +333,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_5718_노드의 합_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="03_APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0406_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0406_practice/SWEA_5718_노드의 합_이정민.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.SWEA_5718_노드의 합_이정민" />
       <item itemvalue="Python.SWEA_5177_이진 힙_이정민" />
       <item itemvalue="Python.SWEA_5177_이진 힙2_이정민" />
       <item itemvalue="Python.SWEA_1232_사칙연산_이정민" />
       <item itemvalue="Python.BOJ_15900_나무탈출_이정민" />
+      <item itemvalue="Python.BOJ_for fast" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_for fast" />
         <item itemvalue="Python.BOJ_15900_나무탈출_이정민" />
         <item itemvalue="Python.SWEA_1232_사칙연산_이정민" />
         <item itemvalue="Python.SWEA_5177_이진 힙2_이정민" />
         <item itemvalue="Python.SWEA_5177_이진 힙_이정민" />
-        <item itemvalue="Python.SWEA_5718_노드의 합_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +381,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -394,8 +394,8 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32804233" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.36507937" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29453263" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.36507937" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29453263" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.52733684" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -755,8 +755,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_for fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="12" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="220">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
