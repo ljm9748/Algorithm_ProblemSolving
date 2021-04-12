@@ -1,2 +1,2 @@
 # Algorithm and Problem Solving
-## this is repository for SSAFY APS
+## this is repository for APS study
