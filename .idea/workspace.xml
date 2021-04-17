@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/practice/0415_practice/SWEA_5188_최소합_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0415_practice/SWEA_5189_전자카트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0415_practice/SWEA_5201_컨테이너 운반_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0415_practice/SWEA_5202_화물도크_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0415_practice/SWEA_5203_베이비진 게임_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0416_practice/SWEA_2819_격자판의 숫자 이어붙이기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0416_practice/SWEA_4366_정식이의 은행업무_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0416_practice/SWEA_1486_장훈이의 높은선반_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0416_practice/SWEA_1861_정사각형 방_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0416_practice/SWEA_1970_쉬운 거스름돈_이정민.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,29 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/0415_practice/SWEA_5201_컨테이너 운반_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_4366_정식이의 은행업무_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="26" column="25" lean-forward="true" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_2819_격자판의 숫자 이어붙이기.py">
+        <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_1486_장훈이의 높은선반_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="22" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="220">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -75,9 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Study/BOJ_8911_거북이_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_14889_스타트와 링크_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/소가 길을 건너간 이유.py" />
         <option value="$PROJECT_DIR$/Study/SWEA_1767_프로세서 연결하기_이정민.py" />
         <option value="$PROJECT_DIR$/Study/no1.py" />
         <option value="$PROJECT_DIR$/Study/no2.py" />
@@ -126,10 +101,13 @@
         <option value="$PROJECT_DIR$/practice/0415_practice/SWEA_5203_베이비진 게임_이정민.pyi" />
         <option value="$PROJECT_DIR$/practice/0416_practice/SWEA_4366_정식이의 은행업무_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0416_practice/SWEA_2819_격자판의 숫자 이어붙이기.py" />
+        <option value="$PROJECT_DIR$/practice/0416_practice/SWEA_1970_쉬운 거스름돈_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0416_practice/SWEA_1861_정사각형 방_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0416_practice/SWEA_1486_장훈이의 높은선반_이정민.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="225" />
     <option name="y" value="81" />
     <option name="width" value="1461" />
@@ -161,6 +139,12 @@
               <item name="03_APS" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="0415_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="0416_practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,7 +182,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SWEA_2819_격자판의 숫자 이어붙이기">
+  <component name="RunManager" selected="Python.SWEA_1861_정사각형 방_이정민">
+    <configuration name="SWEA_1861_정사각형 방_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03_APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0416_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0416_practice/SWEA_1861_정사각형 방_이정민.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SWEA_1970_쉬운 거스름돈_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03_APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0416_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0416_practice/SWEA_1970_쉬운 거스름돈_이정민.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SWEA_2819_격자판의 숫자 이어붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,27 +259,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0416_practice/SWEA_4366_정식이의 은행업무_이정민.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SWEA_5201_컨테이너 운반_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="03_APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0415_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0415_practice/SWEA_5201_컨테이너 운반_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,42 +309,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="03_APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0415_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0415_practice/aa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.SWEA_5202_화물도크_이정민" />
-      <item itemvalue="Python.SWEA_5201_컨테이너 운반_이정민" />
-      <item itemvalue="Python.aa" />
       <item itemvalue="Python.SWEA_5203_베이비진 게임_이정민" />
       <item itemvalue="Python.SWEA_4366_정식이의 은행업무_이정민" />
       <item itemvalue="Python.SWEA_2819_격자판의 숫자 이어붙이기" />
+      <item itemvalue="Python.SWEA_1970_쉬운 거스름돈_이정민" />
+      <item itemvalue="Python.SWEA_1861_정사각형 방_이정민" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA_1861_정사각형 방_이정민" />
+        <item itemvalue="Python.SWEA_1970_쉬운 거스름돈_이정민" />
         <item itemvalue="Python.SWEA_2819_격자판의 숫자 이어붙이기" />
         <item itemvalue="Python.SWEA_4366_정식이의 은행업무_이정민" />
         <item itemvalue="Python.SWEA_5203_베이비진 게임_이정민" />
-        <item itemvalue="Python.aa" />
-        <item itemvalue="Python.SWEA_5201_컨테이너 운반_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +358,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722221" visible="true" weight="0.19331743" />
@@ -447,9 +431,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Study/no1.py" />
-    <entry file="file://$PROJECT_DIR$/Study/no2.py" />
-    <entry file="file://$PROJECT_DIR$/Study/no3.py" />
     <entry file="file://$PROJECT_DIR$/Study/no4.py" />
     <entry file="file://$PROJECT_DIR$/Study/no5-1.py" />
     <entry file="file://$PROJECT_DIR$/Study/no5.py" />
@@ -725,10 +706,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/0415_practice/aa.py" />
-    <entry file="file://$PROJECT_DIR$/practice/0415_practice/SWEA_5201_컨테이너 운반_이정민.py">
+    <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_2819_격자판의 숫자 이어붙이기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="192">
+          <caret line="22" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -739,10 +720,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_2819_격자판의 숫자 이어붙이기.py">
+    <entry file="file://$PROJECT_DIR$/practice/0415_practice/SWEA_5201_컨테이너 운반_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="22" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="220">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_1970_쉬운 거스름돈_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_1861_정사각형 방_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_1486_장훈이의 높은선반_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
