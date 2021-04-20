@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_10971_외판원순회2_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/BOJ_1992_쿼드트리_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_1865_동철이의 일 분배_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_2806_N-Queen_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5205_퀵정렬_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5207_이진탐색_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5208_전기버스_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5209_최소 생산 비용_이정민.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,83 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_1486_장훈이의 높은선반_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_10872_팩토리얼_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_14719_빗물_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_2741_N찍기_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/0419_practice/quicksort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/0419_practice/SWEA_5204_병합정렬_이정민.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_10971_외판원순회2_이정민.py">
+        <entry file="file://$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="200">
+              <caret line="10" column="42" selection-end-line="10" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -122,15 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Study/no5-1.py" />
-        <option value="$PROJECT_DIR$/Study/no5.py" />
-        <option value="$PROJECT_DIR$/Study/Trie 구현하기.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_2606_바이러스_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_0954_Moo게임_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/tmp.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_2011_암호코드_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_1000_A+B_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_18258_큐2_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_2941_크로아티아 알파벳_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0405_practice/연습문제_이정민.py" />
@@ -173,6 +100,15 @@
         <option value="$PROJECT_DIR$/practice/0419_practice/quicksort.py" />
         <option value="$PROJECT_DIR$/practice/0419_practice/SWEA_5204_병합정렬_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_10971_외판원순회2_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_5205_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_5207_이진탐색_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_5208_전기버스_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_5209_최소 생산 비용_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_2806_N-Queen_이정민.py" />
+        <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_1865_동철이의 일 분배.py" />
+        <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_1865_동철이의 일 분배_이정민.py" />
+        <option value="$PROJECT_DIR$/Study/BOJ_1992_쿼드트리_이정민.py" />
+        <option value="$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py" />
       </list>
     </option>
   </component>
@@ -206,7 +142,7 @@
               <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
               <item name="03_APS" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0419_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="0420_practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
@@ -250,8 +186,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_10971_외판원순회2_이정민">
-    <configuration name="BOJ_10872_팩토리얼_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BOJ_9465_ 스티커_이정민">
+    <configuration name="BOJ_1992_쿼드트리_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BOJ_10872_팩토리얼_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BOJ_1992_쿼드트리_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_10971_외판원순회2_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BOJ_9465_ 스티커_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,7 +220,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BOJ_10971_외판원순회2_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_2741_N찍기_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_1865_동철이의 일 분배_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,11 +237,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0420_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Study/BOJ_2741_N찍기_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0420_practice/SWEA_1865_동철이의 일 분배_이정민.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SWEA_2806_N-Queen_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03_APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0420_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0420_practice/SWEA_2806_N-Queen_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_5204_병합정렬_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_5209_최소 생산 비용_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,32 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0419_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0420_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0419_practice/SWEA_5204_병합정렬_이정민.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="03_APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0419_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0419_practice/quicksort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0420_practice/SWEA_5209_최소 생산 비용_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,19 +315,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.SWEA_5202_화물도크_이정민" />
-      <item itemvalue="Python.BOJ_10872_팩토리얼_이정민" />
-      <item itemvalue="Python.BOJ_2741_N찍기_이정민" />
-      <item itemvalue="Python.quicksort" />
-      <item itemvalue="Python.SWEA_5204_병합정렬_이정민" />
-      <item itemvalue="Python.BOJ_10971_외판원순회2_이정민" />
+      <item itemvalue="Python.SWEA_5209_최소 생산 비용_이정민" />
+      <item itemvalue="Python.SWEA_2806_N-Queen_이정민" />
+      <item itemvalue="Python.SWEA_1865_동철이의 일 분배_이정민" />
+      <item itemvalue="Python.BOJ_1992_쿼드트리_이정민" />
+      <item itemvalue="Python.BOJ_9465_ 스티커_이정민" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BOJ_10971_외판원순회2_이정민" />
-        <item itemvalue="Python.SWEA_5204_병합정렬_이정민" />
-        <item itemvalue="Python.quicksort" />
-        <item itemvalue="Python.BOJ_2741_N찍기_이정민" />
-        <item itemvalue="Python.BOJ_10872_팩토리얼_이정민" />
+        <item itemvalue="Python.BOJ_9465_ 스티커_이정민" />
+        <item itemvalue="Python.BOJ_1992_쿼드트리_이정민" />
+        <item itemvalue="Python.SWEA_1865_동철이의 일 분배_이정민" />
+        <item itemvalue="Python.SWEA_2806_N-Queen_이정민" />
+        <item itemvalue="Python.SWEA_5209_최소 생산 비용_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -439,8 +375,8 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32804233" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.36507937" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.34567901" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.36507937" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34567901" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.52733684" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -499,62 +435,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_2583_영역구하기_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_2606_바이러스_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/Trie 구현하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_1000_A+B_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_18258_큐2_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_2941_크로아티아 알파벳_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_7576_토마토_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="18" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_2011_암호코드_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="22" column="23" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/0406_practive.py" />
     <entry file="file://$PROJECT_DIR$/practice/0405_practice/연습문제_전위순회_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -777,10 +657,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_1486_장훈이의 높은선반_이정민.py">
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_2741_N찍기_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="40">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_14719_빗물_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -791,52 +692,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_14719_빗물_이정민.py">
+    <entry file="file://$PROJECT_DIR$/practice/0419_practice/SWEA_5204_병합정렬_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_15900_나무탈출_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_17103_골드바흐 파티션_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/BOJ_2741_N찍기_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="480">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/0419_practice/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="283">
+          <caret line="24" column="47" lean-forward="true" selection-end-line="24" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/0419_practice/SWEA_5204_병합정렬_이정민.py">
+    <entry file="file://$PROJECT_DIR$/practice/0416_practice/SWEA_1486_장훈이의 높은선반_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="180">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0420_practice/SWEA_5205_퀵정렬_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="30" column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0420_practice/SWEA_5208_전기버스_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0420_practice/SWEA_2806_N-Queen_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="25" lean-forward="true" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0420_practice/SWEA_5207_이진탐색_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0420_practice/SWEA_5209_최소 생산 비용_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/BOJ_10971_외판원순회2_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="320">
+          <caret line="16" column="48" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_1992_쿼드트리_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="30" column="25" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/0420_practice/SWEA_1865_동철이의 일 분배_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="42" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
