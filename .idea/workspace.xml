@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5ac9ae-22d0-4379-bb0f-b195bdfc4493" name="Default Changelist" comment="Add README.md">
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_1992_쿼드트리_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_1865_동철이의 일 분배_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_2806_N-Queen_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5205_퀵정렬_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5207_이진탐색_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5208_전기버스_이정민.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/0420_practice/SWEA_5209_최소 생산 비용_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Dijkstra_이정민.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/SWEA_2814_최장경로_이정민.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/SWEA_2814_최장경로_이정민.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="42" selection-end-line="10" selection-end-column="59" />
+            <state relative-caret-position="192">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework/Dijkstra_이정민.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -58,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Study/BOJ_16959_체스판여행_이정민.py" />
-        <option value="$PROJECT_DIR$/Study/BOJ_2941_크로아티아 알파벳_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0405_practice/연습문제_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0405_practice/SWEA_1231_중위순회_이정민.py" />
         <option value="$PROJECT_DIR$/practice/0406_practive.py" />
@@ -109,6 +110,8 @@
         <option value="$PROJECT_DIR$/practice/0420_practice/SWEA_1865_동철이의 일 분배_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_1992_쿼드트리_이정민.py" />
         <option value="$PROJECT_DIR$/Study/BOJ_9465_ 스티커_이정민.py" />
+        <option value="$PROJECT_DIR$/homework/SWEA_2814_최장경로_이정민.py" />
+        <option value="$PROJECT_DIR$/homework/Dijkstra_이정민.py" />
       </list>
     </option>
   </component>
@@ -132,6 +135,11 @@
             <path>
               <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
               <item name="03_APS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_APS" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="03_APS" type="b2602c69:ProjectViewProjectNode" />
@@ -186,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_9465_ 스티커_이정민">
+  <component name="RunManager" selected="Python.Dijkstra_이정민">
     <configuration name="BOJ_1992_쿼드트리_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,6 +237,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Dijkstra_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03_APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/Dijkstra_이정민.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SWEA_1865_동철이의 일 분배_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_2806_N-Queen_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_2814_최장경로_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="03_APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0420_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0420_practice/SWEA_2806_N-Queen_이정민.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/SWEA_2814_최장경로_이정민.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,42 +321,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_5209_최소 생산 비용_이정민" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="03_APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/0420_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/0420_practice/SWEA_5209_최소 생산 비용_이정민.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.SWEA_5202_화물도크_이정민" />
-      <item itemvalue="Python.SWEA_5209_최소 생산 비용_이정민" />
-      <item itemvalue="Python.SWEA_2806_N-Queen_이정민" />
       <item itemvalue="Python.SWEA_1865_동철이의 일 분배_이정민" />
       <item itemvalue="Python.BOJ_1992_쿼드트리_이정민" />
       <item itemvalue="Python.BOJ_9465_ 스티커_이정민" />
+      <item itemvalue="Python.SWEA_2814_최장경로_이정민" />
+      <item itemvalue="Python.Dijkstra_이정민" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dijkstra_이정민" />
+        <item itemvalue="Python.SWEA_2814_최장경로_이정민" />
         <item itemvalue="Python.BOJ_9465_ 스티커_이정민" />
         <item itemvalue="Python.BOJ_1992_쿼드트리_이정민" />
         <item itemvalue="Python.SWEA_1865_동철이의 일 분배_이정민" />
-        <item itemvalue="Python.SWEA_2806_N-Queen_이정민" />
-        <item itemvalue="Python.SWEA_5209_최소 생산 비용_이정민" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +371,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722221" visible="true" weight="0.24184567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -375,7 +382,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32804233" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.36507937" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.36507937" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.34567901" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.52733684" />
@@ -435,14 +442,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice/0406_practive.py" />
-    <entry file="file://$PROJECT_DIR$/practice/0405_practice/연습문제_전위순회_이정민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/0405_practice/SWEA_1231_중위순회_이정민.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -773,6 +772,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="42" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/SWEA_2814_최장경로_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/Dijkstra_이정민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
