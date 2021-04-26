@@ -4,10 +4,6 @@ dy=[1, 0, -1, 0]
 
 def DFS(x, y, way, cnt, line, nth):
     global max_core, min_line
-    # print(core, max_core, min_line)
-    # for b in board:
-    #     print(*b)
-    # print()
     if max_core-1>core-nth+2+cnt: # upper_bound
         return
     if nth == core+1:
